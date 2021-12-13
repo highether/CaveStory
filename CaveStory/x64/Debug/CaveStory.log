@@ -1,2 +1,7 @@
-﻿  Main.cpp
-C:\Users\shado\source\repos\CaveStory\CaveStory\Main.cpp : fatal error C1041: cannot open program database 'C:\Users\shado\source\repos\CaveStory\CaveStory\x64\Debug\vc143.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+﻿  Game.cpp
+C:\Users\shado\source\repos\CaveStory\CaveStory\Game.cpp(57,24): warning C4244: 'argument': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  CaveStory.vcxproj -> C:\Users\shado\source\repos\CaveStory\x64\Debug\CaveStory.exe
